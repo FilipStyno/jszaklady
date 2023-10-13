@@ -1,3 +1,3 @@
 * Autor: Filip Hřivňacký
-* Třída: IT1
+* Třída: IT2
 * SŠPU Opava
